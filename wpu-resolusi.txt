@@ -3,3 +3,8 @@ Padahal udah sering commit dan push project
 Tapi gapapa lah nanti juga berhasil buat projectnya
 -seriusan
 -pasti nanti jadi konten keren
+
+
+Ini merupakan file yang sudah di edit dan akan di commit
+sebenernya ini merupakan proses pembelajaran jadi kita mesti bertahap
+-ini contoh jelasnya terhadap kita membuat file systemagar kita bisa membuat sebuah website.
