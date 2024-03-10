@@ -1,8 +1,7 @@
 Sedang belajar github
 Padahal udah sering commit dan push project
 Tapi gapapa lah nanti juga berhasil buat projectnya
--seriusan
--pasti nanti jadi konten keren
+-sudah di hapus pasti ini keren
 
 
 Ini merupakan file yang sudah di edit dan akan di commit
