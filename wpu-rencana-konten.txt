@@ -4,4 +4,4 @@ Rencana Konten WPU
 -Menambahkan rencana konten
 -Framework
 -wpu rencana konten
--membuat konten yang keren
+-membuat konten yang ajib binal
