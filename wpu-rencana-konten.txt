@@ -4,4 +4,5 @@ Rencana Konten WPU
 -Menambahkan rencana konten
 -Framework
 -wpu rencana konten
+-Si B menambahkan Fitur baru dari yang ada
 -membuat konten yang keren
