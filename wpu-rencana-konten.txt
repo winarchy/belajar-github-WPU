@@ -1,6 +1,7 @@
 Rencana Konten WPU
 
 -Javascript
+-Menambahkan rencana konten
 -Framework
 -wpu rencana konten
 -membuat konten yang keren
