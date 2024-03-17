@@ -1,7 +1,7 @@
-Rencana Konten WPU
+RENCANA KONTEN WPU
 
 -Javascript
--Menambahkan rencana konten
+-PHP Frameworks
 -Framework
--wpu rencana konten
--membuat konten yang ajib binal
+-Interview
+-Vlogs
